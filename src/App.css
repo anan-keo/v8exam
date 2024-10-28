@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: beige;
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+main button {
+  padding: 5px;
+  margin-left: 1em;
+}
+
+main input {
+  line-height: 2;
+  background-color: white;
+  color: black;
+}
